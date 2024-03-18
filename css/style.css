@@ -27,6 +27,15 @@
   align-content: space-between;
   flex-wrap: wrap;
 }
+.parent-block:hover {
+  box-shadow: 20px 20px 0px 0px rgba(0,0,1,1);
+
+}
+.parent-block:hover .title {
+  color: #F4D04E;
+  cursor: pointer;
+  cursor: url("../images/handcursor.svg"), auto
+}
 
 .img-box {
   border-radius: 10px;
