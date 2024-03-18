@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Figtree-ExtraBold';
+    src: url('../fonts/Figtree-ExtraBold.eot');
+    src: url('../fonts/Figtree-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Figtree-ExtraBold.woff2') format('woff2'),
+        url('../fonts/Figtree-ExtraBold.woff') format('woff'),
+        url('../fonts/Figtree-ExtraBold.svg#Figtree-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Figtree-SemiBold';
+    src: url('../fonts/Figtree-SemiBold.eot');
+    src: url('../fonts/Figtree-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Figtree-SemiBold.woff2') format('woff2'),
+        url('../fonts/Figtree-SemiBold.woff') format('woff'),
+        url('../fonts/Figtree-SemiBold.svg#Figtree-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Figtree-LightItalic';
+    src: url('../fonts/Figtree-LightItalic.eot');
+    src: url('../fonts/Figtree-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Figtree-LightItalic.woff2') format('woff2'),
+        url('../fonts/Figtree-LightItalic.woff') format('woff'),
+        url('../fonts/Figtree-LightItalic.svg#Figtree-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Figtree-Light';
+    src: url('../fonts/Figtree-Light.eot');
+    src: url('../fonts/Figtree-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Figtree-Light.woff2') format('woff2'),
+        url('../fonts/Figtree-Light.woff') format('woff'),
+        url('../fonts/Figtree-Light.svg#Figtree-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+

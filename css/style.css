@@ -14,7 +14,7 @@
 .parent-block {
   width: 384px;
   height: 522px;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -22,9 +22,45 @@
   border: 1px solid black;
   padding: 24px;
   border-radius: 20px;
-  box-shadow: 10px 10px 0px 0px rgba(0,0,1,1);
+  box-shadow: 10px 10px 0px 0px rgba(0, 0, 1, 1);
 }
 
 .img-box {
   border-radius: 10px;
+}
+.category {
+  width: 82px;
+  height: 29px;
+  background-color: #f4d04e;
+  border-radius: 4px;
+  text-align: center;
+  padding: 4px;
+  font-family: "Figtree-ExtraBold";
+  font-size: 14px;
+  line-height: 150%;
+}
+
+.date {
+  font-family: 'Figtree-SemiBold';
+  font-size: 14px;
+  line-height: 150%;
+}
+
+.title {
+  font-family: 'Figtree-ExtraBold';
+  font-size: 24px;
+  line-height: 150%;
+}
+
+.descr {
+  font-family: 'Figtree-Light';
+  columns: #7F7F7F;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 300;
+}
+.author-name {
+  font-family: "Figtree-ExtraBold";
+  font-size: 14px;
+  line-height: 150%;
 }
