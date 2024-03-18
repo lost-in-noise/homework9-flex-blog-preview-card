@@ -25,6 +25,9 @@
   display: flex;
   align-content: space-between;
   flex-wrap: wrap;
+  transition-property: all;
+  transition-duration: 0.6s;
+  transition-timing-function: linear;
 }
 .parent-block:hover {
   box-shadow: 20px 20px 0px 0px rgba(0, 0, 1, 1);
