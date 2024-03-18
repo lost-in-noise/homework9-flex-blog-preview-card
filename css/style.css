@@ -7,6 +7,21 @@
 }
 
 .main-bg {
-    background-color: #F4D04E;
-    height: 100vh;
+  background-color: #f4d04e;
+  height: 100vh;
+  position: relative;
 }
+.parent-block {
+  width: 384px;
+  height: 522px;
+  background-color: #FFFFFF;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  border: 1px solid black;
+  padding: 24px;
+  border-radius: 20px;
+  box-shadow: 10px 10px 0px 0px rgba(0,0,1,1);
+}
+
