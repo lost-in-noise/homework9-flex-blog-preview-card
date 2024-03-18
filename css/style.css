@@ -5,7 +5,6 @@
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
-
 .main-bg {
   background-color: #f4d04e;
   height: 100vh;
@@ -28,15 +27,13 @@
   flex-wrap: wrap;
 }
 .parent-block:hover {
-  box-shadow: 20px 20px 0px 0px rgba(0,0,1,1);
-
+  box-shadow: 20px 20px 0px 0px rgba(0, 0, 1, 1);
 }
 .parent-block:hover .title {
-  color: #F4D04E;
+  color: #f4d04e;
   cursor: pointer;
-  cursor: url("../images/handcursor.svg"), auto
+  cursor: url("../images/handcursor.svg"), auto;
 }
-
 .img-box {
   border-radius: 10px;
 }
@@ -52,21 +49,18 @@
   line-height: 150%;
   margin-bottom: 12px;
 }
-
 .date {
   font-family: "Figtree-SemiBold";
   font-size: 14px;
   line-height: 150%;
   margin-bottom: 12px;
 }
-
 .title {
   font-family: "Figtree-ExtraBold";
   font-size: 24px;
   line-height: 150%;
   margin-bottom: 12px;
 }
-
 .descr {
   font-family: "Figtree-SemiBold";
   color: #7f7f7f;
